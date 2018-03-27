@@ -10,6 +10,7 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
+    //App para probar Bitrise
     private EditText text;
     private Button mButton;
     private RadioButton mCelsiusButton, mFahrenheitButton;
